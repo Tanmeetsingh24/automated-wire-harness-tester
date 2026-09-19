@@ -7,7 +7,7 @@
 
 ---
 
-## The hook
+## Problem statement
 
 Wire-harness validation was a **repeatable bottleneck**: manual checks were slow, inconsistent, and gave operators little structured fault data before integration.
 
